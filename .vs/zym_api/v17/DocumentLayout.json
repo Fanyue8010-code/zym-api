@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u7A0B\u5E8F\\zym\\zym_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{174D8190-6D4B-458E-84A2-1ED8D291B3C8}|zym_api\\zym_api.csproj|d:\\\u7A0B\u5E8F\\zym\\zym_api\\zym_api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{174D8190-6D4B-458E-84A2-1ED8D291B3C8}|zym_api\\zym_api.csproj|solutionrelative:zym_api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174D8190-6D4B-458E-84A2-1ED8D291B3C8}|zym_api\\zym_api.csproj|d:\\\u7A0B\u5E8F\\zym\\zym_api\\zym_api\\controllers\\syscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174D8190-6D4B-458E-84A2-1ED8D291B3C8}|zym_api\\zym_api.csproj|solutionrelative:zym_api\\controllers\\syscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174D8190-6D4B-458E-84A2-1ED8D291B3C8}|zym_api\\zym_api.csproj|d:\\\u7A0B\u5E8F\\zym\\zym_api\\zym_api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174D8190-6D4B-458E-84A2-1ED8D291B3C8}|zym_api\\zym_api.csproj|solutionrelative:zym_api\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\zym\\zym_api\\zym_api\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "zym_api\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\zym\\zym_api\\zym_api\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "zym_api\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T05:01:20.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SysController.cs",
+              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\zym\\zym_api\\zym_api\\Controllers\\SysController.cs",
+              "RelativeDocumentMoniker": "zym_api\\Controllers\\SysController.cs",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\zym\\zym_api\\zym_api\\Controllers\\SysController.cs",
+              "RelativeToolTip": "zym_api\\Controllers\\SysController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:54:32.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\zym\\zym_api\\zym_api\\Web.config",
+              "RelativeDocumentMoniker": "zym_api\\Web.config",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\zym\\zym_api\\zym_api\\Web.config",
+              "RelativeToolTip": "zym_api\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-11T04:54:31.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
